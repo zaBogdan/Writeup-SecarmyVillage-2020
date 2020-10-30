@@ -1,0 +1,79 @@
+# Nmap 7.80 scan initiated Fri Oct 30 18:45:05 2020 as: nmap -sC -sV -oN nmap.all -p- -v svoc.htb
+Nmap scan report for svoc.htb (192.168.0.113)
+Host is up (0.00045s latency).
+Not shown: 65531 closed ports
+PORT     STATE SERVICE VERSION
+21/tcp   open  ftp     vsftpd 2.0.8 or later
+|_ftp-anon: Anonymous FTP login allowed (FTP code 230)
+| ftp-syst: 
+|   STAT: 
+| FTP server status:
+|      Connected to ::ffff:192.168.0.174
+|      Logged in as ftp
+|      TYPE: ASCII
+|      No session bandwidth limit
+|      Session timeout in seconds is 300
+|      Control connection is plain text
+|      Data connections will be plain text
+|      At session startup, client count was 3
+|      vsFTPd 3.0.3 - secure, fast, stable
+|_End of status
+22/tcp   open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 2c:54:d0:5a:ae:b3:4f:5b:f8:65:5d:13:c9:ee:86:75 (RSA)
+|   256 0c:2b:3a:bd:80:86:f8:6c:2f:9e:ec:e4:7d:ad:83:bf (ECDSA)
+|_  256 2b:4f:04:e0:e5:81:e4:4c:11:2f:92:2a:72:95:58:4e (ED25519)
+80/tcp   open  http    Apache httpd 2.4.29 ((Ubuntu))
+| http-methods: 
+|_  Supported Methods: GET POST OPTIONS HEAD
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Totally Secure Website
+1337/tcp open  waste?
+| fingerprint-strings: 
+|   DNSStatusRequestTCP, GetRequest, HTTPOptions, Help, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
+|     Welcome to SVOS Password Recovery Facility!
+|     Enter the super secret token to proceed: 
+|     Invalid token!
+|     Exiting!
+|   DNSVersionBindReqTCP, GenericLines, NULL, RPCCheck: 
+|     Welcome to SVOS Password Recovery Facility!
+|_    Enter the super secret token to proceed:
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port1337-TCP:V=7.80%I=7%D=10/30%Time=5F9C4319%P=x86_64-pc-linux-gnu%r(N
+SF:ULL,58,"\n\x20Welcome\x20to\x20SVOS\x20Password\x20Recovery\x20Facility
+SF:!\n\x20Enter\x20the\x20super\x20secret\x20token\x20to\x20proceed:\x20")
+SF:%r(GenericLines,58,"\n\x20Welcome\x20to\x20SVOS\x20Password\x20Recovery
+SF:\x20Facility!\n\x20Enter\x20the\x20super\x20secret\x20token\x20to\x20pr
+SF:oceed:\x20")%r(GetRequest,74,"\n\x20Welcome\x20to\x20SVOS\x20Password\x
+SF:20Recovery\x20Facility!\n\x20Enter\x20the\x20super\x20secret\x20token\x
+SF:20to\x20proceed:\x20\n\x20Invalid\x20token!\n\x20Exiting!\x20\n")%r(HTT
+SF:POptions,74,"\n\x20Welcome\x20to\x20SVOS\x20Password\x20Recovery\x20Fac
+SF:ility!\n\x20Enter\x20the\x20super\x20secret\x20token\x20to\x20proceed:\
+SF:x20\n\x20Invalid\x20token!\n\x20Exiting!\x20\n")%r(RTSPRequest,74,"\n\x
+SF:20Welcome\x20to\x20SVOS\x20Password\x20Recovery\x20Facility!\n\x20Enter
+SF:\x20the\x20super\x20secret\x20token\x20to\x20proceed:\x20\n\x20Invalid\
+SF:x20token!\n\x20Exiting!\x20\n")%r(RPCCheck,58,"\n\x20Welcome\x20to\x20S
+SF:VOS\x20Password\x20Recovery\x20Facility!\n\x20Enter\x20the\x20super\x20
+SF:secret\x20token\x20to\x20proceed:\x20")%r(DNSVersionBindReqTCP,58,"\n\x
+SF:20Welcome\x20to\x20SVOS\x20Password\x20Recovery\x20Facility!\n\x20Enter
+SF:\x20the\x20super\x20secret\x20token\x20to\x20proceed:\x20")%r(DNSStatus
+SF:RequestTCP,74,"\n\x20Welcome\x20to\x20SVOS\x20Password\x20Recovery\x20F
+SF:acility!\n\x20Enter\x20the\x20super\x20secret\x20token\x20to\x20proceed
+SF::\x20\n\x20Invalid\x20token!\n\x20Exiting!\x20\n")%r(Help,74,"\n\x20Wel
+SF:come\x20to\x20SVOS\x20Password\x20Recovery\x20Facility!\n\x20Enter\x20t
+SF:he\x20super\x20secret\x20token\x20to\x20proceed:\x20\n\x20Invalid\x20to
+SF:ken!\n\x20Exiting!\x20\n")%r(SSLSessionReq,74,"\n\x20Welcome\x20to\x20S
+SF:VOS\x20Password\x20Recovery\x20Facility!\n\x20Enter\x20the\x20super\x20
+SF:secret\x20token\x20to\x20proceed:\x20\n\x20Invalid\x20token!\n\x20Exiti
+SF:ng!\x20\n")%r(TerminalServerCookie,74,"\n\x20Welcome\x20to\x20SVOS\x20P
+SF:assword\x20Recovery\x20Facility!\n\x20Enter\x20the\x20super\x20secret\x
+SF:20token\x20to\x20proceed:\x20\n\x20Invalid\x20token!\n\x20Exiting!\x20\
+SF:n")%r(TLSSessionReq,74,"\n\x20Welcome\x20to\x20SVOS\x20Password\x20Reco
+SF:very\x20Facility!\n\x20Enter\x20the\x20super\x20secret\x20token\x20to\x
+SF:20proceed:\x20\n\x20Invalid\x20token!\n\x20Exiting!\x20\n");
+MAC Address: 00:0C:29:D4:E9:31 (VMware)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Oct 30 18:45:59 2020 -- 1 IP address (1 host up) scanned in 54.67 seconds

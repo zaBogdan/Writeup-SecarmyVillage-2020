@@ -1,0 +1,166 @@
+GET /none.txt HTTP/1.1
+Host: 95f71887cfe3.ngrok.io
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/3.8.5
+Date: Sun, 18 Oct 2020 09:36:33 GMT
+Content-type: text/plain
+Content-Length: 21381
+Last-Modified: Sun, 18 Oct 2020 08:14:49 GMT
+Connection: keep-alive
+
+QWERTY is a keyboard design for Latin-script alphabets. The name comes from the order of the first six keys on the top left letter row of the keyboard. The QWERTY design is based on a layout created for the Sholes and Glidden typewriter and sold to E. Remington and Sons in 1873. Why was the QWERTY keyboard layout invented and why has it not changed? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from others and better understand the world.
+
+Answer by Brian Roemmele, Founder + Editor at Read Multiplex, on Quora:
+
+It was almost the QWE.TY keyboard layout. The three primary confluences that motivated the QWERTY layout and the primary reasons are surprising.
+
+A New Way To Write
+
+The typewriter was heralded as a new way to write with greater speed, fluency and readability. This idea of the typewriter predates the office use that ultimately made it a standard business machine. Like many things in history, the QWERTY layout had fundamental contributing elements that became obscured across the span of time. The rise of the industrial age to the office age in the United States closely aligns with the rise of the typewriter. Although the typewriter has a history that predates the QWERTY layout, it was a confluence of elements that gave rise to Remington winning the early typewriter standard. But why the QWERTY standard and not sequential alphabetical or any of the other keyboard layouts being developed by competing typewriter manufactures?
+Recommended For You
+
+    Samsung Leak Reveals Stunning New Galaxy Smartphone
+    22 Of The Best iPhone 12 Pro Cases: MagSafe Cases, Clear Cases & More
+    Apple Documents Confirm Surprising New MacBooks
+
+The QWERTY Keyboard Business Model
+
+In November, 1868 Christopher Latham Sholes [0] and his colleagues, Carlos Glidden, Samuel Willard Soul.., and James Densmore, in Milwaukee shipped out their first 28 key piano style keyboard-like typewriter [1] to Porter...s Telegraph College in Chicago, primarily to transcribe telegraph messages. By April, 1870 Matthias Schwalbach helped Sholes design a new typewriter with 38 keys [2], which consisted of capitals, numerals 2 to 9, hyphen, comma, period, and question mark. According to typewritten letters and patents of Sholes, the keyboard consisted of four rows, nearly in alphabetical order, but the ...u... was next to ...o.... But it would be his next versions that had a close version of today...s QWERTY keyboard layout.
+
+The Sholes 28 key piano style keyboard-like typewriter.
+
+How did Sholes choose to move from an almost sequential alphabetical logical order to QWERTY keyboard layout? The most popular theory posits [3] that the inventors designed the QWERTY keyboard system to prevent the mechanical lock up of the strikers due to the close succession of adjacent often used keys that were high on the Bigram Frequency [4] of usage. The keys were actuated by the type bar connecting the keys and the letter plate, which formed a circle beneath the paper feed system. It is important to differentiate between the typewriter...s keyboard rows and the type bars. There were just two rows of type bars in Sholes design.
+
+The Remington QWERTY type bar connecting the keys and the letter plate.
+
+The striker lockup came when a typist quickly typed a succession of letters on the same type bars and the strikers were adjacent to each other. There was a higher possibility for the keys to become jammed. READING IS NOT IMPORTANT, HERE IS WHAT YOU WANT: "mjwfr?2b6j3a5fx/" if the sequence was not perfectly timed. The theory presents that Sholes redesigned the type bar so as to separate the most common sequences of letters: ...th..., ...he... and others from causing a jam.
+
+Bigram Frequency usage of letter pairs in the english language.
+
+If this theory was correct, the QWERTY keyboard system should create the maximum separation of the common letter pairings. However ...er..., the fourth most common and ...re..., the sixth most common letter pairing in the English language begins to break down this theory as they turn out to be the most used key combinations, surpassing ...th.... Additionally, the Sholes typewriter prototypes had a different keyboard layout that was only changed just before he filed the QWERTY patent. If it had been put into production we would have been talking about the QWE.TY keyboard.
+
+The reason for the last minute change of moving the ...r... next to the ...e... has baffled many historians who have assumed the Bigram Frequency of key combinations influenced the key placement. Additionally, there was no direct mention of why the keys were placed in QWERTY layout in the patent. The claim that it would cause less striker lockups would have been a primary attribute of the patent. Finally, at the time that Sholes patented the QWERTY layout there were no ...touch typists... , the only popular method on record was ...hunt and peck... with visual feedback. The typewriter was just too new of an instrument for anyone to imagine memorization of the keyboard layout. With no ...touch typing..., with no fingers on the home keys, there was not the speed nor the multiple finger combinations that would have caused high striker lockup. That problem only came years later after there were ...touch typists... that had memorized the keyboard layout.
+
+Consider the placement of ...er... and/or ...re.... It was not unknown to Sholes that these were the most popular key parings when both combinations were added together. It has been argued that he got the educator and brother of his early partner, Amos Densmore to prepare a frequency study of letter-pairs in the English language using the Bigram Frequency of usage technique. But this turns out to not quite correct with history. Densmore was not an educator the in 1860's when it was suggested he conducted this study. He owned the Densmore Oil Company and manufactured train cars for transporting petroleum and did not have time or resources to conduct this research. Finally, the obvious and logical sequential alphabetical placement of the keys actually are spaced almost as well as QWERTY for key striker lock up, yet Sholes abandoned this layout as he abandoned others. Why?
+
+The QWERTY Conflict
+
+Thus we are left with a conflict. Some argue the QWERTY layout was a compromise between the mechanical needs of the typewriter and the needs of the typist to have common letters under fingers. The concept of ...touch typing... was not invented at this time so that is simply not valid. Most certainly Sholes was mindful of the placement of the keys on his keyboard from a mechanical standpoint to minimize potential key striker lockup, but he was also looking for an edge that may very well reach beyond engineering. Sholes did not have the resources to manufacture typewriters at the scale he had hoped the market would demand as the industrial revolution was predicted to create a torrent of typewritten pages. He needed a manufacturing partner. That partner was the E. Remington and Sons [5] that had began making guns and rifles and moved to sewing machines. In March 1886 they acquired the patents for Shole...s typewriter. Sholes stayed on with Remington for a while and met the marketing men, William O. Wykoff, Clarence W. Seamans and Henry H. Benedict. They saw the problem from a perspective that no other typewriter company saw. They saw it as an education issue that could allow the company to command large shares of the market.
+
+With the release of Remington typewriter No. 2, the primary customers were not telegraphers, but mostly shorthanders in office environments. As soon as Model No. 2 was released, William Ozmun Wyckoff of Ithaca, New York, began to teach his six-finger typing method, using first to third fingers of both hands, to his shorthand pupils at Phonographic Institute. In August, 1882 Remington entered into an exclusive selling agreement of typewriters with Wyckoff and established a new company, ...Wyckoff, Seamans & Benedict... to teach ...touch typing.... Model No. 2 slightly shifted some letters from the original Sholes patents, M was moved next to N, and C was exchanged with X for a number of patent reasons. By August, 1882, Elizabeth Margaret Vater Longley presented her eight-finger typing method, using first to fourth fingers of both hands on the ...home keys... and it was ultimately adopted by Wyckoff in his ...touch typing... courses.
+
+Let Me Train You To Type
+
+The Remington course plan was to offer free or discounted typewriters with a ready made ...touch typing... course to private business collages, universities, and The World Young Women's Christian Association (YWCA). The YWCA was a place where women were able to learn a new trade for the expanding office and secretarial job market. Prior to ...touch typing... most typing was via the ...hunt and peck... sight method with no ...home keys.... The ...touch type... course used the QWERTY keyboard layout and required the typist to not look at the keyboard and to memorize the keys. This memorization piece had an incredible effect on the typist. It also allowed the typewriter to mechanically have a higher slope angle of Model No. 2 for faster finger movement as there is less need to actually see the keys. Those so trained would find it almost impossible to use any other keyboard layout. They literally programmed the QWERTY layout into the head (like software, if you will) of the typist. Moving to another non- QWERTY layout would cause the words per minute to go down by about 80% according to Remington at the time. They posited that it requires about 400 hours of practice to achieve the reflexes to become a skilled typist and another 600 to be an expert with touch typing using the home keys method, which as far as the research goes, is the fastest technique.
+
+The plan worked so well they opened Remington Typing Schools throughout Europe a few years later. It was established quite early on, for many reason I will not cover here, that typing was primarily performed by women. In fact in 1874 less than 4% of clerical workers in the United States were women and by 1900, the number had increased to approximately 75%. Before his death, Sholes said "I do feel that I have done something for the women who have always had to work so hard. This will enable them more easily to earn a living.... The plan Remington created was simple yet one of the most powerful ways to insure the QWERTY keyboard was the preferred standard. By training typists on the new concept of memorized ...touch typing... they did a number of things:
+
+    Got the typists to move from ...hunt and peck... typing to the memorized key layout of the QWERTY keyboard and thereby increased the speed of Remington typists.
+    Insured that the majority of typists moving to the expanding office typing pools were QWERTY trained and demanded/requested Remington typewriters.
+    Shifted the marketing and sales to the user rather than the buyer of the business products.
+
+By March, 1893, WS&B and a new partner, Charles Newell Fowler of the Equitable Mortgage Company, founded the Union Typewriter Company as the shareholder of five leading typewriter companies, Remington, Caligraph, Yost, Densmore, and Smith-Premier, to form the Typewriter Trust later known as Standard Typewriter Manufacturing Company, Inc only later to adopt the Remington Typewriter Company name again. The five companies adopted QWERTY on their typewriters and by June, 1898, QWERTY became the de facto standard, with over 70% market share of typewriter sales.
+
+The Remington ...touch typing... courses were one of the fundamental reasons for the shift to QWERTY. Competitors did not understand the tactics that were at play until it was too late. By 1901 half of all the US higher education schools had standardized on the Remington ...touch typing... method. It took years for the next major brands to catch up, but all ultimately had to shift to the QWERTY keyboard layout. By 1915 high schools began occupational skill training using Remington...s courses. The Remington course and its variants were standard High School training up until the mid 1970s in the U.S., as ironically the personal computer just started to become popularly known.
+
+Watch How Fast I Can Do This
+
+There was one more thing that Remington used as a sort of icing on the cake, so to speak. Sholes originally was going to patent the QWE.TY keyboard layout, but at the last minute he changed his mind. History has lost who came up with the idea, but I suspect it was Sholes, he moved the "e" to the former ....... position for one hidden fundamental reason. The demonstrations for sales of his new invention, to prove it was faster, years before formal touch typing and memorization. The early sales presentations of the Sholes typewriter started with the representative typing TYPEWRITER or TYPE-WRITER [6] very fast in almost a single motion. It was so fast that it fascinated potential customers. Later on this ...secret... was adopted by Remington and it was practiced by the sales people with contests for the fastest delivery of TYPEWRITER. Why is this important to the QWERTY layout? Sholes took the letters for the word TYPEWRITER and put them on a single line. After many tests, long before there was memorized home key ...touch typing... this was the ideal place for the eyes to see the keys while typing.
+
+Thus, we have a rather rich story of how the QWERTY keyboard layout came about. I know that this information conflicts with the folktales of mechanical keys locking up because of the Bigram Frequency of key pairs. The fact is that it was very easy to cause keys to lock up for most of the history of the typewriter up until the IBM selectric ball system. One can argue that many other keyboard and type bar layouts could actually cause less key striker lock up. We can also argue other keyboard layouts were more practical, like the sequential alphabetical or later the Dvorak layout. But by the time these concepts came around or were reintroduced, it was too late, thousands of trained ...touch typists... already memorized the QWERTY keyboard and the network effect and momentum were impossible to reverse. So to recap the confluence of reasons:
+
+    Patented designs - There were nearly 100 patents around the idea of typing, Sholes needed something unique.
+    Proprietary QWERTY Training courses - No one had organized on a large scale the training of typists. Remington cornered the training market.
+    Sales people and effective marketing - By training some of the most aggressive and flamboyant sales people typing out TYPEWRITER in one motion demonstrations they wowed the potential customers.
+    Mechanical considerations - the dual type bars and key placement did have some QWERTY minor impact on lowering key striker lockup.
+
+Today, since the rise of the teletype keyboard that influenced Steve Wozniak and Steve Jobs on the first TV Typewriter Apple 1 [7], on through the influence of the IBM Selectric on PC keyboards, on to the complete de-evolution of typing with thumbs on glass simulated keyboards, QWERTY is still with us. We learn it in a way that is at best, variations of ...hunt and peck... with memorization of the QWERTY layout. We have assimilated the QWERTY layout so much to memory that it is very, very hard to conceive of the keyboard in any other layout. In fact, moving just a few keys on a QWERTY keyboard causes noticeable trauma to the typists in some research tests.
+
+It is hard to conduct research for an alternative layout. In the late 1950s a study was conducted with school children in Alaska using a sequential alphabetical keyboard on a modified Remington, they equaled the efficiency and speed of QWERTY typists. The tests had to stop when parents discovered their children were ...damaged... and could not type QWERTY easily and it took some a year to ...deprogram... the keyboard they memorized. Recent studies have also proven that using all of your fingers does not necessarily make you a very fast typist, some do very well with two fingers. So even the concept of some ...touch typing... courses may be somewhat invalid.
+
+The QWERTY keyboard has also had a very deep and lasting impact across a number of very non intuitive areas. This is called the QWERTY effect [8], [9], [10] and the Right Side Ratio/Bias (RSR). This has been studied in depth and posits that essentially the mechanical load and cognitive load to reach certain keys, primarily the left hand keys, make humans disfavor using those keys and there is robust and compelling evidence that everything from baby names [11] to how highly we rate products on Amazon or movies on Netflix has a RSR bias [9].
+
+This means that a significant part of our everyday life is deeply tied and biased to the QWERTY keyboard layout that was invented in the 1860s and was cobbled together to more or less sell more typewriters. Additionally, the mostly serial letter by letter process of typing has slowed down and perhaps curtailed the brain...s ability to present information meant to be spoken but lost because of the slow process of painstakingly typing each letter to the words and sentences you have already formed in your head. It is also important to note that with the recent shift to using primarily our thumbs on smartphones and tablets, we are rewiring our brains in such a way that it may have a deeply lasting impact [9.5].
+
+One Of The First Betamax Vs. VHS Stories?
+
+Some have said that history shows that market share and technical superiority are rarely related. There is the likelihood of "lock-in" to inferior standards. The Beta and VHS competition as well as some others are an example as perhaps MS-DOS. But perhaps the QWERTY keyboard, some state, was designed purely for a marketing premise and not a premise that would actually create higher productivity. It can even be found in the Encyclopedia Britannica as evidence of how human inertia can result in the choice of an inferior product. The story can be found in two very successful economics books written by Robert Frank and Philip Cook's: The Winner-Take-All Society and Paul Krugman's Peddling Prosperity, where an entire chapter is devoted to the "economics of QWERTY.... The examples of how QWERTY became a standard usually overlooks the sequence of events of history and how markets really are formed and react and act. Indeed, the ...software... lock-in of QWERTY ...hardware... by the brain memorizing the keyboard layout was brilliant and not widely known even today. The economic theory that somehow winner-takes-all capitalism (perhaps the a typewriter monopoly) in and of itself created the single reason for the rise of QWERTY is quite flawed. It was the brilliant idea to train the typist to memorize a particular keyboard layout that fundamentally made QWERTY a standard for better or worse. Without the front loading of the Remington ...touch typing... classes there would be not QWERTY standard. I have used this example over the last few decades as a deep example to many founders of start-ups. There is much to learn from the QWERTY story and the economic impact, but this would take another longer posting.
+
+Cognitive Load And Mechanical Load Of Typing
+
+Today we use the technology of the keyboard and the QWERTY keyboard layout on a scale unlike any other technology. If Sholes returned to see his invention in use at this scale I am certain it would fascinate him and perhaps give him pause and a chuckle.
+
+The cause and effect the relatively new concept of typing has had on society is of course mostly positive. We get to interact with computers using this technologically ancient method. However, I see this as a stop over point to what I call the Voice First revolution [12]. The human thinking and communication work product is speech. We talk in words and sentences not serially in letters. This is the byproduct of millions of years of evolution and perhaps 500,000 years of vocalizations. Typing and the QWERTY keyboard literally has changed the way we think.
+
+Humans have been talking for a very long time. You are talking to yourself as you read this as well as I am talking to myself as I try to type this (this part I did not dictate using Siri). The only reason we did not talk to the typewriter or the early computers that copied the typewriters is because they obviously did not have the technology to understand us. And some may argue that talking to a computer has been around for a while and it is not very useful. I would agree. There is much more to the Voice First revolution then simulating what we do when we type. I know this, long before evolution self selects humans for better typing abilities without impacting thinking functions, we will have long ago moved on to using our voice.
+
+...Brian hold on there, isn...t typing like riding a bicycle? Giving us more power because of the machine?... Indeed this is why humans build machines. However, the use of the keyboard will not instantly disappear, nor did the bicycle. It will be supplanted by new technology. The bicycle exists in the scooter and self driving car world. But it is a relic from the mechanical age. We will move from the mechanical age of of using our fingers and perhaps just our thumbs to filter our knowledge to the true software age of using our voice, it is how we are designed.
+GET /favicon.ico HTTP/1.1
+Host: 95f71887cfe3.ngrok.io
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP/1.0 404 File not found
+Server: SimpleHTTP/0.6 Python/3.8.5
+Date: Sun, 18 Oct 2020 09:36:34 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 469
+Connection: keep-alive
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <title>Error response</title>
+    </head>
+    <body>
+        <h1>Error response</h1>
+        <p>Error code: 404</p>
+        <p>Message: File not found.</p>
+        <p>Error code explanation: HTTPStatus.NOT_FOUND - Nothing matches the given URI.</p>
+    </body>
+</html>
+GET /none.txt HTTP/1.1
+Host: 95f71887cfe3.ngrok.io
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Sun, 18 Oct 2020 08:14:49 GMT
+Cache-Control: max-age=0
+
+HTTP/1.0 304 Not Modified
+Server: SimpleHTTP/0.6 Python/3.8.5
+Date: Sun, 18 Oct 2020 09:37:32 GMT
+Connection: keep-alive
+
+GET /none.txt HTTP/1.1
+Host: 95f71887cfe3.ngrok.io
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Sun, 18 Oct 2020 08:14:49 GMT
+Cache-Control: max-age=0
+
+HTTP/1.0 304 Not Modified
+Server: SimpleHTTP/0.6 Python/3.8.5
+Date: Sun, 18 Oct 2020 09:37:35 GMT
+Connection: keep-alive
+
+
